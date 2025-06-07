@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "chadd-paper"
+description = "Data Repository for 'Efficient Chromatic-Number-Based Multi-Qubit Decoherence and Crosstalk Suppression'"
+authors = [
+    "Amy F. Brown <afbrown@usc.edu>",
+]
+version = "0.0.2-alpha"
+readme = "README.md"
+packages = [
+    { include = "chadd" }
+]
+
+[tool.poetry.dependencies]
+python = ">=3.10,<3.12"
+matplotlib = "^3.10"
+numpy = "^2.2"
+pandas = "^2.2"
+notebook = "^7.4.3"
+scipy = "^1.15.3"
