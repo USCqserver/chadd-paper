@@ -1,5 +1,5 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2406.13901-b31b1b.svg)](https://arxiv.org/abs/2406.13901)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15572006.svg)](https://doi.org/10.5281/zenodo.15572006)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15572005.svg)](https://doi.org/10.5281/zenodo.15572005)
 [![GitHub release](https://img.shields.io/github/v/release/USCqserver/chadd-paper?include_prereleases&label=pre-release&logo=github)](https://github.com/USCqserver/chadd-paper/releases)
 
 # Data Repository for "Efficient Chromatic-Number-Based Multi-Qubit Decoherence and Crosstalk Suppression"
@@ -9,7 +9,7 @@ Amy F. Brown and Daniel A. Lidar
 ## Description
 This repository contains the aggregate data and notebooks to recreate the plots contained in the Chromatic-Hadamard Dynamical Decoupling (CHaDD) paper, "Efficient Chromatic-Number-Based Multi-Qubit Decoherence and Crosstalk Suppression," [![arXiv](https://img.shields.io/badge/arXiv-2406.13901-b31b1b.svg)](https://arxiv.org/abs/2406.13901).
 
-This repository is archived on Zenodo at the following DOI: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15572006.svg)](https://doi.org/10.5281/zenodo.15572006).
+This repository is archived on Zenodo at the following DOI: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15572005.svg)](https://doi.org/10.5281/zenodo.15572005).
 
 The latest release and the history of releases can be found in the GitHub release archive: [![GitHub release](https://img.shields.io/github/v/release/USCqserver/chadd-paper?include_prereleases&label=pre-release&logo=github)](https://github.com/USCqserver/chadd-paper/releases).
 
@@ -70,7 +70,7 @@ Please cite the CHaDD preprint and data repository as follows:
 
 > **Data Repository for "Efficient Chromatic-Number-Based Multi-Qubit Decoherence and Crosstalk Suppression"**  
 > Amy F. Brown, Daniel A. Lidar  
-> DOI: [10.5281/zenodo.15572006](https://doi.org/10.5281/zenodo.15572006)
+> DOI: [10.5281/zenodo.15572005](https://doi.org/10.5281/zenodo.15572005)
 
 BibTeX:
 ```bibtex
@@ -84,13 +84,13 @@ BibTeX:
     doi={10.48550/arXiv.2406.13901},
     url={https://doi.org/10.48550/arXiv.2406.13901},
 }
-@software{amy_f_brown_2025_15572006,
+@software{amy_f_brown_2025_15572005,
     title={Data Repository for "Efficient Chromatic-Number-Based Multi-Qubit Decoherence and Crosstalk Suppression"},
     author={Amy F. Brown and Daniel A. Lidar},
     month=jun,
     year=2025,
     publisher={Zenodo},
-    doi={10.5281/zenodo.15572006},
-    url={https://doi.org/10.5281/zenodo.15572006},
+    doi={10.5281/zenodo.15572005},
+    url={https://doi.org/10.5281/zenodo.15572005},
 }
 ```

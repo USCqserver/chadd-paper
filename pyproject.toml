@@ -4,7 +4,7 @@ description = "Data Repository for 'Efficient Chromatic-Number-Based Multi-Qubit
 authors = [
     "Amy F. Brown <afbrown@usc.edu>",
 ]
-version = "0.0.2-alpha"
+version = "0.0.3-alpha"
 readme = "README.md"
 packages = [
     { include = "chadd" }
